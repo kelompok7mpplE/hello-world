@@ -1,3 +1,3 @@
 # hello-world
-repository buat tutorial aja
+repository buat aja
 tetapi bisa juga dibuat
